@@ -4,7 +4,7 @@
 **Name:** Akhila Gaddam
 
 ## Project Overview
-This project is a custom implementation of the C++ Standard Template Library (STL) `string` class. It demonstrates Object-Oriented Programming (OOP) concepts, dynamic memory allocation, and operator overloading by creating a user-defined string class.
+This project is a custom implementation of the C++ Standard Template Library (STL) `string` class. It demonstrates Object-Oriented Programming (OOP) concepts such as dynamic memory allocation, constructors, destructors, copy constructors, operator overloading, and string manipulation by creating a user-defined string class.
 
 ## Features
 - Default Constructor
@@ -24,14 +24,12 @@ This project is a custom implementation of the C++ Standard Template Library (ST
 - Check if String is Empty
 
 ## Project Files
-
-- `main.cpp` - Demonstrates the working of the custom string class.
-- `MyString.h` - Class declaration.
-- `MyString.cpp` - Class implementation.
-- `README.md` - Project documentation.
+- **main.cpp** – Demonstrates the working of the custom string class.
+- **MyString.h** – Class declaration.
+- **MyString.cpp** – Class implementation.
+- **README.md** – Project documentation.
 
 ## Technologies Used
-
 - C++
 - Object-Oriented Programming (OOP)
 
@@ -62,6 +60,14 @@ Character[1] = e
 Empty after clear = Yes
 ```
 
-## Conclusion
+## Learning Outcomes
+Through this project, I learned:
+- Dynamic memory allocation using `new` and `delete`
+- Constructor and Destructor implementation
+- Copy Constructor and Assignment Operator
+- Operator Overloading
+- String manipulation using character arrays
+- Object-Oriented Programming concepts in C++
 
-This project successfully implements a custom string class with basic functionalities similar to the C++ STL `string` class. It demonstrates important C++ concepts such as classes, dynamic memory management, constructors, destructors, and operator overloading.
+## Conclusion
+This project successfully implements a custom string class with basic functionalities similar to the C++ STL `string` class. It demonstrates important C++ concepts such as classes, dynamic memory management, constructors, destructors, copy constructors, and operator overloading.
