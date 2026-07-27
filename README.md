@@ -2,37 +2,43 @@
 
 <div align="center">
 
-### 👩🏻‍💻 Developed by **Akhila Gaddam**
+## 👩🏻‍💻 Developed By
 
-**Summer Training Project | CipherSchools**
+### **Akhila Gaddam**
 
-*A C++ implementation of the STL `std::string` class using Object-Oriented Programming.*
+🎓 **Summer Training Project – CipherSchools**
+
+*A custom implementation of the C++ Standard Template Library (`std::string`) using Object-Oriented Programming.*
 
 </div>
 
 ---
 
-## 📖 Overview
+## 📖 Project Overview
 
-The **Custom String Class Management System** is a menu-driven C++ application that recreates the core functionality of the Standard Template Library (`std::string`) using a custom-built class.
+The **Custom String Class Management System** is a menu-driven C++ application that recreates the core functionality of the C++ Standard Template Library (`std::string`) through a custom-built string class.
 
-This project was developed to strengthen the understanding of **Object-Oriented Programming (OOP)**, **dynamic memory management**, **operator overloading**, and **string manipulation** by implementing a string class from scratch.
+This project demonstrates the practical implementation of **Object-Oriented Programming (OOP)** concepts including dynamic memory allocation, constructors, destructors, copy constructors, assignment operators, operator overloading, and string manipulation without relying on the built-in `std::string` class.
+
+The application provides an interactive console-based interface that allows users to perform common string operations efficiently.
 
 ---
 
-## ✨ Highlights
+## ✨ Key Features
 
-- 🎯 Custom implementation of the STL `string` class
+- 🎯 Custom implementation of the C++ STL `std::string` class
 - 🖥️ Interactive Menu-Driven Interface
+- 📝 Enter and Store a New String
+- 👀 Display Current String
 - 📏 Calculate String Length
-- ➕ Append Strings
-- 🔍 Search for Substrings
-- ✂️ Extract Substrings
-- ⚖️ Compare Strings
+- ➕ Append Another String
+- 🔍 Search for a Substring
+- ✂️ Extract a Substring
+- ⚖️ Compare Two Strings
 - 🔗 Concatenate Strings using `+`
 - ✅ Equality Comparison using `==`
 - 🔤 Character Access using `[]`
-- 🗑️ Clear String
+- 🗑️ Clear Current String
 - 📂 Check if String is Empty
 - 💾 Dynamic Memory Allocation
 - 🧩 Modular Project Structure
@@ -52,18 +58,21 @@ CustomStringProject/
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - C++
 - Object-Oriented Programming (OOP)
 - Dynamic Memory Allocation
+- Constructors & Destructors
+- Copy Constructor
+- Assignment Operator
 - Operator Overloading
 - Character Arrays
 - Modular Programming
 
 ---
 
-## ▶️ Compile
+## ▶️ How to Compile
 
 ```bash
 g++ main.cpp MyString.cpp -o CustomString
@@ -71,7 +80,7 @@ g++ main.cpp MyString.cpp -o CustomString
 
 ---
 
-## ▶️ Run
+## ▶️ How to Run
 
 ```bash
 ./CustomString
@@ -79,9 +88,17 @@ g++ main.cpp MyString.cpp -o CustomString
 
 ---
 
-## 📋 Menu Operations
+## 📋 Sample Menu
 
 ```text
+=====================================================
+      CUSTOM STRING CLASS MANAGEMENT SYSTEM
+=====================================================
+      C++ Mini Project | CipherSchools
+=====================================================
+
+--------------------- MAIN MENU ----------------------
+
 1. Enter New String
 2. Display Current String
 3. Display String Length
@@ -95,36 +112,45 @@ g++ main.cpp MyString.cpp -o CustomString
 11. Display Character at Index
 12. Check Equality (==)
 13. Exit Application
+
+------------------------------------------------------
 ```
 
 ---
 
 ## 🎓 Learning Outcomes
 
-Throughout this project, I gained hands-on experience with:
+Throughout this project, I gained practical experience in:
 
-- ✔️ Classes & Objects
-- ✔️ Constructors & Destructors
-- ✔️ Copy Constructor
-- ✔️ Assignment Operator
-- ✔️ Dynamic Memory Allocation (`new` & `delete`)
-- ✔️ Operator Overloading
-- ✔️ String Processing
-- ✔️ Menu-Driven Programming
-- ✔️ Modular C++ Development
+- ✅ Classes and Objects
+- ✅ Constructors and Destructors
+- ✅ Copy Constructor
+- ✅ Assignment Operator
+- ✅ Dynamic Memory Allocation using `new` and `delete`
+- ✅ Operator Overloading
+- ✅ String Processing
+- ✅ Menu-Driven Programming
+- ✅ Modular C++ Development
+- ✅ Building a Custom Data Structure
 
 ---
 
 ## 🎯 Conclusion
 
-This project successfully recreates the essential functionality of the C++ **STL `std::string`** class through a custom implementation. It demonstrates strong Object-Oriented Programming concepts while providing an interactive menu-driven application for performing common string operations.
+The **Custom String Class Management System** successfully recreates the essential functionality of the C++ Standard Template Library (`std::string`) using a custom implementation. The project strengthened my understanding of Object-Oriented Programming, dynamic memory management, operator overloading, and modular software development while building a clean and interactive menu-driven application.
 
 ---
 
 <div align="center">
 
-### 👩🏻‍💻 Developed by Akhila Gaddam
+## 👩🏻‍💻 Developed By
 
-⭐ **Summer Training Project – CipherSchools**
+### **Akhila Gaddam**
+
+🎓 **Summer Training Project – CipherSchools**
+
+⭐ **Thank you for visiting this repository!**
+
+If you found this project helpful, feel free to ⭐ the repository.
 
 </div>
