@@ -27,7 +27,7 @@ The project provides a **menu-driven interface** that allows users to perform va
 - Compare Two Strings
 - Search Substring
 - Extract Substring
-- Clear String
+- Clear Current String
 - Check if String is Empty
 - Concatenate Two Strings using `+`
 - Equality Comparison using `==`
@@ -38,10 +38,10 @@ The project provides a **menu-driven interface** that allows users to perform va
 
 ## Project Files
 
-- `main.cpp` – Menu-driven application demonstrating all string operations.
-- `MyString.h` – Class declaration.
-- `MyString.cpp` – Class implementation.
-- `README.md` – Project documentation.
+- **main.cpp** – Menu-driven application demonstrating all string operations.
+- **MyString.h** – Class declaration.
+- **MyString.cpp** – Class implementation.
+- **README.md** – Project documentation.
 
 ---
 
@@ -70,7 +70,7 @@ g++ main.cpp MyString.cpp -o CustomString
 
 ## Sample Menu
 
-```
+```text
 =====================================================
         CUSTOM STRING CLASS MANAGEMENT SYSTEM
 =====================================================
@@ -109,7 +109,7 @@ Through this project, I learned:
 
 ## Conclusion
 
-This project successfully implements a custom string class with functionalities similar to the C++ STL `string` class. It demonstrates the practical implementation of OOP concepts, dynamic memory management, and operator overloading through an interactive menu-driven application.
+This project successfully implements a custom string class with functionalities similar to the C++ STL `string` class. It demonstrates the practical implementation of Object-Oriented Programming concepts, dynamic memory management, and operator overloading through an interactive menu-driven application.
 
 ---
 
