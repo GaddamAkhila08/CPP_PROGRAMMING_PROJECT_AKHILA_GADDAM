@@ -151,6 +151,4 @@ The **Custom String Class Management System** successfully recreates the essenti
 
 ⭐ **Thank you for visiting this repository!**
 
-If you found this project helpful, feel free to ⭐ the repository.
-
 </div>
